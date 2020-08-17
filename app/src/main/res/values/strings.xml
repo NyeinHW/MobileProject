@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">The Memory Game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searchhint">Search: Beach,Business,Nature..</string>
+    <string name="start">Start</string>
+    <string name="desc">Descriptions</string>
+    <string name="about">About Us</string>
+    <string name="members" tools:ignore="StringEscaping"> Cao Yan Shuang \nMuhammad bin Sharifa Amzar\nKumaresan Karkuzhali \nNyein Hsu Wai  \nKeith Tang Chor Wai \nTan Zi Jian  \nTessa Lim  \nWint Phu Aung </string>
+    <string name="titledesc">A game where you test your memory skills with images that you have selected yourself. </string>
+    <string name="description">1.Search for a category of pictures e.g. \'nature\' or \'music\'.\n 2.Select 6 pictures and your game will load. \n3.Turn over any two cards.\n4.If the cards match, you get a point. If they don\'t, they will turn back over.\n5.The game ends when all cards have been matched.</string>
+    <string name="successMsg">Congratulations!</string>
+    <string name="successTitle">GAME OVER</string>
+</resources>
